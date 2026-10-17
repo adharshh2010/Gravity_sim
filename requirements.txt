@@ -29,7 +29,7 @@ executing==2.2.0
 filelock==3.13.1
 flatbuffers==25.2.10
 fonttools==4.56.0
-fsspec==2024.6.1
+fsspec==2026.6.0
 gast==0.6.0
 glcontext==3.0.0
 google-pasta==0.2.0
