@@ -116,7 +116,7 @@ pygame==2.6.1
 pyglet==2.1.11
 pyglm==2.8.3
 Pygments==2.19.2
-pylint==3.3.5
+pylint==4.0.9
 pyparsing==3.2.1
 pyserial==3.5
 python-dateutil==2.9.0.post0
